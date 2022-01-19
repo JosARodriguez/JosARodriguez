@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosARodriguez
 - 👀 I’m interested in Machine Learning, Functional Programming, Blockchain, Chess and Math
-- 🌱 I’m currently learning to develop Smart Contracts with Plutus and Solidity
+- 🌱 I’m currently learning to develop Smart Contracts with Plutus and to work with Substrate.
 - 💞️ I’m looking to make my first contributions to Open Source projects
 - 📫 How to reach me: jose.angel.rodriguez.ricano@gmail.com
 
